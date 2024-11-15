@@ -9,4 +9,6 @@ speed_max = 8;
 accel = 1;
  
 ori = 270;
+
+keys = 0;
  
